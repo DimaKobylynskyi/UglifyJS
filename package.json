@@ -24,7 +24,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "commander": "~2.14.1",
+    "commander": "^2.20.1",
     "source-map": "~0.6.1"
   },
   "devDependencies": {
